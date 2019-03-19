@@ -34,7 +34,7 @@ class NoiDiaPurchaseResponse extends Response implements RedirectResponseInterfa
 
     public function getRedirectData()
     {
-        return null;
+        return [];
     }
 
 
